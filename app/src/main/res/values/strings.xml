@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mi juego de dados</string>
+    <string name="todo">TODO</string>
+    <string name="lanzar">juegue y lance su dado</string>
+</resources>
